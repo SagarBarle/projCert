@@ -4,6 +4,7 @@
  * Used to store website configuration information.
  *
  * @var string
+ *added new comment
  */
 function config($key = '')
 {
